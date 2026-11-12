@@ -1,0 +1,4 @@
+tb/attn_sim
+tb/attn_tb.vcd
+data/output.txt
+*.vcd
